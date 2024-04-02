@@ -1,0 +1,22 @@
+HELP.md
+target/
+challenge/.mvn/wrapper/**
+.**/DS_Store
+
+### STS ###
+challenge/.apt_generated
+challenge/.classpath
+challenge/.factorypath
+challenge/.project
+challenge/.settings
+challenge/.springBeans
+challenge/.sts4-cache
+
+### IntelliJ IDEA ###
+challenge/.idea
+challenge/*.iws
+challenge/*.iml
+challenge/*.ipr
+
+### VS Code ###
+.vscode/
