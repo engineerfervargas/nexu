@@ -34,7 +34,7 @@ This is one way to set up the challenge. However, if you have some experience co
 
 For checking and editing Java, you can use Eclipse (STS has all the basic plugins for working with Spring) or IntelliJ IDEA, which is the best option on the market.
 
-In this case, I used a UUID instead of a conventional ID because MongoDB versions above 4.2 deprecate the function $eval, which was used to execute commands like storage functions. My idea was to create a function that generates a sequence and assigns these values to every record.
+In this case, I used a `UUID` instead of a conventional `ID` because MongoDB versions above 4.2 deprecate the function $eval, which was used to execute commands like storage functions. My idea was to create a function that generates a sequence and assigns these values to every record.
 
 # Services Availables
 
